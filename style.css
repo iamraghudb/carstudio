@@ -7,8 +7,8 @@ body,html{
 }
 h1{
 	font-size: 3rem;
-	color:#7CB3FF;
-	margin-top: 200px;
+	color:#FF6C6C;
+	margin-top: 250px;
 
 }
 hr{
@@ -17,7 +17,7 @@ hr{
 	max-width: 65px;
 }
 .buffer{
-	height: 5rem;
+	height: 4rem;
 }
 .btn{
 	font-weight: 700;
